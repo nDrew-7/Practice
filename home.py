@@ -1,4 +1,5 @@
-colors = {"Mcdonald":"Red", "Mitchel":"Pink"}
-print(colors["Mitchel"])
+colors = {"Mcdonald":"Red", "Mitchel":"Royal Pink"}
+colors["Marvelous"]="Royal blue"
+print(colors["Marvelous"])
     
     
