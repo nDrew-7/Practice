@@ -1,6 +1,4 @@
-#loops
-names= "Mcdonald"
-for character in names:
-    print(character)
+colors = {"Mcdonald":"Red", "Mitchel":"Pink"}
+print(colors["Mitchel"])
     
     
