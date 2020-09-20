@@ -1,5 +1,6 @@
 #loops
-for i in [0,1,3,4,6,7]:
-    print(i)
+names= ["Green", "Red", "Blue"]
+for name in names:
+    print(name)
     
     
