@@ -1,5 +1,8 @@
-colors = {"Mcdonald":"Red", "Mitchel":"Royal Pink"}
-colors["Marvelous"]="Royal blue"
-print(colors["Marvelous"])
+# function
+def square(x):
+    return x*x
+
+for i in range (10):
+    print(f"The sqaure of {i} is {square(i)}")
     
     
